@@ -2,6 +2,7 @@ The task is to read carefully the famous landmark paper introducing ResNET:
 
 https://arxiv.org/pdf/1512.03385.pdf
 
-and implement this network in a neat, parametrized way using subclassing API in Pytorch, so that different variants of this network can be instantiated based on the class call parameters choice.
+and implement this network in a neat, parametrized way using subclassing API in Pytorch, 
+so that different variants of this network can be instantiated based on the class call parameters choice.
 
 Further, two instances are to be trained on GPU: Resnet 18 and 56 on the CIFAR 10 dataset (you must make necessary adjustments if needed).
